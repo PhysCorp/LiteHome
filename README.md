@@ -1,2 +1,2 @@
 # LiteHome
-A closed-source TV client !
+A closed-source TV client for Linux!
